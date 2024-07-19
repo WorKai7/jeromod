@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "X X",
+      "XXX",
+      "XXX"
+    ],
+    "key": {
+      "X": {
+        "item": "jeromod:jeromium"
+      }
+    },
+    "result": {
+      "item": "jeromod:jeromium_chestplate"
+    }
+  }

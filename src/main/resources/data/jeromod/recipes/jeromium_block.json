@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+
+    "key": {
+        "#": {
+            "tag": "forge:gems/jeromium"
+        }
+    },
+
+    "result": {
+        "item": "jeromod:jeromium_block"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "XX",
+      " #",
+      " #"
+    ],
+    "key": {
+      "#": {
+        "item": "jeromod:jeromium_stick"
+      },
+      "X": {
+        "item": "jeromod:jeromium"
+      }
+    },
+    "result": {
+      "item": "jeromod:jeromium_hoe"
+    }
+  }

@@ -1,0 +1,23 @@
+{
+    "item.jeromod.jeromium": "Jeromium ingot",
+    "item.jeromod.jeromium_nugget": "Jeromium nugget",
+    "item.jeromod.jeromium_stick": "Jeromium stick",
+
+    "item.jeromod.jeromium_sword": "Jeromium sword",
+    "item.jeromod.jeromium_pickaxe": "Jeromium pickaxe",
+    "item.jeromod.jeromium_axe": "Jeromium axe",
+    "item.jeromod.jeromium_shovel": "Jeromium shovel",
+    "item.jeromod.jeromium_hoe": "Jeromium hoe",
+
+    "item.jeromod.jeromium_helmet": "Jeromium helmet",
+    "item.jeromod.jeromium_chestplate": "Jeromium chestplate",
+    "item.jeromod.jeromium_leggings": "Jeromium leggings",
+    "item.jeromod.jeromium_boots": "Jeromium boots",
+
+
+    "block.jeromod.jeromium_block": "Jeromium block",
+    "block.jeromod.jeromium_ore": "Jeromium ore",
+
+
+    "itemGroup.jeromod_tab": "Jeromod"
+}

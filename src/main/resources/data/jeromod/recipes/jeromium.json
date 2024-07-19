@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "jeromod:jeromium_block"
+        }
+    ],
+
+    "result": {
+        "item": "jeromod:jeromium",
+        "count": 9
+    }
+}

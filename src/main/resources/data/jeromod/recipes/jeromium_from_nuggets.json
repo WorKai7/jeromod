@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+
+    "key": {
+        "#": {
+            "item": "jeromod:jeromium_nugget"
+        }
+    },
+
+    "result": {
+        "item": "jeromod:jeromium"
+    }
+}
