@@ -1,1 +1,1 @@
-# Jeromod is a simple that add the jeromium ore with his ingot, block, nugget and its associated tools and armor set.
+# Jeromod is a simple mod that add the jeromium ore with its ingot, block, nugget and its associated tools and armor set.
