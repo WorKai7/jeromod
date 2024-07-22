@@ -2,7 +2,7 @@ package com.workai.jeromod.item;
 
 import java.util.function.Supplier;
 
-import com.workai.jeromod.block.JeromodTags.Items;
+import com.workai.jeromod.util.JeromodTags.Items;
 
 import net.minecraft.item.IItemTier;
 import net.minecraft.item.crafting.Ingredient;

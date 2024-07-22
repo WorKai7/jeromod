@@ -1,4 +1,4 @@
-package com.workai.jeromod.block;
+package com.workai.jeromod.util;
 
 import net.minecraft.item.Item;
 import net.minecraft.tags.ItemTags;
